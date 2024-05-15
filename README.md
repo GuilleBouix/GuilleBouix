@@ -15,10 +15,6 @@
   </a>
 </p>
 
-# Sobre mí 👨‍💻
-
-¡Hola! Soy Guillermo Daniel Bouix, un programador en proceso de formación y estudiante de Analista Programador/Sistemas. Poseo habilidades básicas en programación y en la creación de interfaces gráficas. Mi preferencia recae en Python, aunque estoy comprometido a expandir mis conocimientos aprendiendo otros lenguajes con el tiempo. Mi aspiración es convertirme en un programador senior, capaz de enfrentar cualquier desafío y compartir mis conocimientos con futuros programadores.
-
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## Github Metrics 📊
