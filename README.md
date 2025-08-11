@@ -36,6 +36,7 @@
 ## Skills 💡
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="SQL">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="48" title="Flask">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" width="48" title="Astro">
@@ -43,8 +44,8 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="Tailwind CSS">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="GitHub">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Photoshop"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
