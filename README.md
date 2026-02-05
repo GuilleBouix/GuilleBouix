@@ -14,13 +14,27 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
 
+## About Me
+
+Desarrollador Full-Stack con sólida formación técnica en desarrollo de software. Experiencia
+demostrada a través de proyectos académicos complejos que incluyen sistemas de gestión comercial y aplicaciones web
+interactivas. Busco mi primera oportunidad profesional para aplicar mis conocimientos técnicos en un entorno de
+desarrollo real.
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------->
+
 ## Github Metrics 📊
 
-<div style="flex">
-  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilleBouix&theme=github_dark" />
-
-  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilleBouix&theme=github_dark" />
-</div>
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilleBouix&theme=github_dark" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilleBouix&theme=github_dark" />
+</td>
+</tr>
+</table>
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
