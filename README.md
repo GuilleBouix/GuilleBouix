@@ -1,3 +1,5 @@
+![portada](https://github.com/user-attachments/assets/f1522f17-e92e-4e94-ac20-0ce415a2d71f)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01BDFC&size=45&center=true&vCenter=true&width=1000&lines=%C2%A1Hola,+bienvenido!👋🏻)
 
 <p align="center">
@@ -39,12 +41,7 @@ desarrollo real.
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
 
-
-
-
-<!----------------------------------------------------------------------------------------------------------------------------------------------------->
-
-## Skills 💡
+## Skills
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="SQL">
