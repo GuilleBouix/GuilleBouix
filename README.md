@@ -15,9 +15,6 @@ interactivas.
 <table>
   <tr>
   <td>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilleBouix&theme=github_dark" />
-  </td>
-  <td>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilleBouix&theme=github_dark" />
   </td>
   </tr>
