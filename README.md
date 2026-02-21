@@ -35,7 +35,7 @@ interactivas.
   <!-- Languages -->
   <td align="center">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" alt="Python" title="Python"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" alt="JavaScript" title="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" alt="TypeScript" title="TypeScript"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="40" alt="C Sharp" title="C#"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" alt="HTML5" title="HTML5"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" alt="CSS3" title="CSS3"/>
