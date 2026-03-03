@@ -12,7 +12,7 @@ interactivas.
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
 ## Github Metrics
 
-<table>
+<table align="center">
   <tr>
   <td>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilleBouix&theme=github_dark" />
@@ -23,7 +23,7 @@ interactivas.
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
 ## Skills
 
-<table>
+<table align="center">
 <tr>
   <td align="center"><b>Languages</b></td>
   <td align="center"><b>Frameworks & Libraries</b></td>
@@ -70,7 +70,7 @@ interactivas.
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
 ## Contact
 
-<p>
+<p align="center">
   <a href="https://www.instagram.com/guillebouix.dev" target="_blank">
     <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/da4261f6-099d-4580-b7dd-f8c118b87add" />
   </a>
