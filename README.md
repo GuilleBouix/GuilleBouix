@@ -72,12 +72,18 @@ interactivas.
 
 <p align="center">
   <a href="https://www.instagram.com/guillebouix.dev" target="_blank">
-    <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/da4261f6-099d-4580-b7dd-f8c118b87add" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="150" />
   </a>
-  <a href="https://guillebouix.vercel.app" target="_blank">
-    <img width="50" height="50" alt="Portfolio" src="https://github.com/user-attachments/assets/b9ad8f21-7e91-494f-b6f2-99a94e0127d5" />
+  &nbsp;
+  <a href="https://www.tiktok.com/@guillebouix.dev" target="_blank">
+    <img src="https://img.shields.io/badge/TIK--TOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" width="130" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/guillermo-bouix" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" />
+  </a>
+  &nbsp;
   <a href="mailto:bouix.dev@gmail.com">
-    <img width="50" height="50" alt="Email" src="https://github.com/user-attachments/assets/29ba626a-242b-4361-a03f-d16dd705019c" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="110" />
   </a>
 </p>
