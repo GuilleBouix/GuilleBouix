@@ -71,6 +71,9 @@ interactivas.
 ## Contact
 
 <p align="center">
+  <a href="https://guillebouix.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTAFOLIO-%23000000.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Portafolio" width="150" />
+  </a>
   <a href="https://www.instagram.com/guillebouix.dev" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="150" />
   </a>
