@@ -1,27 +1,19 @@
 <img width="1920" height="356" alt="github" src="https://github.com/user-attachments/assets/0397304f-573f-41d5-b159-ee9c7fd543a5" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01BDFC&size=45&center=true&vCenter=true&width=1000&lines=%C2%A1Hola,+bienvenido!👋🏻)
+# Guillermo Daniel Bouix
 
-<!----------------------------------------------------------------------------------------------------------------------------------------------------->
 ## About Me
 
-Desarrollador graduado con sólida formación técnica en desarrollo de software full-stack. Experiencia
-demostrada a través de proyectos  que incluyen sistemas de gestión comercial y aplicaciones web
-interactivas.
+Full-Stack Developer — React  · Astro · Python · FastAPI • PostgreSQL
+I build complete products: solid architecture on the back, clean and fast interfaces on the front. 2+ years of real-world experience through freelance projects, working end-to-end without handholding.
+I care about three things: code that scales, UIs people actually enjoy using, and shipping solutions to real problems — not just features.
+
+📂 My work speaks for itself — check the pinned repos below
+
+📬 Currently open to full-time roles. <a href="https://guillebouix.vercel.app" target="_blank">Check my Portfolio</a>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------->
-## Github Metrics
-
-<table align="center">
-  <tr>
-  <td>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilleBouix&theme=github_dark" />
-  </td>
-  </tr>
-</table>
-
-<!----------------------------------------------------------------------------------------------------------------------------------------------------->
-## Skills
+## Tech Stack
 
 <table align="center">
 <tr>
@@ -36,7 +28,6 @@ interactivas.
   <td align="center">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" alt="Python" title="Python"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" alt="TypeScript" title="TypeScript"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="40" alt="C Sharp" title="C#"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" alt="HTML5" title="HTML5"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" alt="CSS3" title="CSS3"/>
   </td>
@@ -48,7 +39,6 @@ interactivas.
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" alt="React" title="React"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="40" alt="Astro Framework" title="Astro"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="40" alt="WinForms" title="Windows Forms (WinForms)"/>
   </td>
 
   <!-- Databases -->
