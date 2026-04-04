@@ -1,4 +1,4 @@
-![portada](https://github.com/user-attachments/assets/f1522f17-e92e-4e94-ac20-0ce415a2d71f)
+<img width="1920" height="356" alt="github" src="https://github.com/user-attachments/assets/0397304f-573f-41d5-b159-ee9c7fd543a5" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01BDFC&size=45&center=true&vCenter=true&width=1000&lines=%C2%A1Hola,+bienvenido!👋🏻)
 
